@@ -1,0 +1,10 @@
+{
+  "baseHost" : "https://hwt2nt6a7i.execute-api.us-east-1.amazonaws.com/dev",
+  "_old_baseHost_2" : "https://34ydrayijl.execute-api.us-east-1.amazonaws.com/dev",
+  "_old_baseHost_1": "https://h4l6fbn2ea.execute-api.us-east-1.amazonaws.com/dev",
+  "_old_baseHost_beanStalk": "http://responder-env-1.eba-nvzeimyf.us-east-1.elasticbeanstalk.com",
+  "_comment": "baseHost on EBS ",
+ 
+  "awsBucketRegion" : "us-east-1",
+  "awsIdentityPoolId": "us-east-1:5554cd7d-af2e-49db-b7eb-85c182a1cb11"
+}
